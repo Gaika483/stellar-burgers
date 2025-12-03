@@ -66,5 +66,4 @@ export const Profile: FC = () => {
       updateUserError={error || undefined}
     />
   );
-  
 };
